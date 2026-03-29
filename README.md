@@ -12,6 +12,7 @@
 </p>
 
 
+
 Current target pipeline:
 
 `Mic -> VAD -> ASR -> LLM -> TTS -> Speaker`
