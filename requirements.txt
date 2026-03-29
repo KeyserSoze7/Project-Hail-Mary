@@ -1,0 +1,14 @@
+﻿# Core runtime
+numpy>=1.24.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+psutil>=5.9.0
+
+# Voice pipeline backends
+faster-whisper>=1.0.0
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Note:
+# llama-cpp-python with CUDA support will be installed separately on Windows.
+# Piper TTS is also expected to be installed as an external binary.

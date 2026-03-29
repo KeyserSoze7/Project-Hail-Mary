@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Local models and voice assets
+models/*.gguf
+models/*.onnx
+models/*.json
+!models/.gitkeep
+
+# Download/cache folders
+models/.cache/
+bin/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.wav
