@@ -2,6 +2,16 @@
 
 `Mary` is the Windows + GPU-oriented successor to `HAL9000`.
 
+
+## Project Demo
+
+<p align="center">
+  <a href="https://youtu.be/BmJ_biVMV_Q">
+    <img src="https://img.youtube.com/vi/BmJ_biVMV_Q/0.jpg" alt="Watch Demo" />
+  </a>
+</p>
+
+
 Current target pipeline:
 
 `Mic -> VAD -> ASR -> LLM -> TTS -> Speaker`
